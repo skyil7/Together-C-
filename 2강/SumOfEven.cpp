@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 /*
@@ -12,7 +12,7 @@ void main()
 	do //일단 한번 실행하고
 	{
 		cout << "Input Number : ";
-		cin >> num;//입력받은 값을 >> 로 num에 전달
+		cin >> num;//Console IN으로 입력받은 값을 >> 로 num에 전달
 	} while (num <= 0);//조건에 부합하면 반복
 
 	for (int i = 1; i <= num; i++)//1~num까지 반복하는 반복문
