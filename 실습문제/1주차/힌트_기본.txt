@@ -1,0 +1,10 @@
+힌트
+
+문자열 자료형 : string
+string의 길이를 구하는 함수 : str.length()
+예시)
+string str = "hello";
+str.length == 5
+
+string를 char[]로 형변환 하는 함수 : str.c_str()
+n의 a승을 구해주는 함수 : pow(n,a)
